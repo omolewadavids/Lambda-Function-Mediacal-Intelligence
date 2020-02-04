@@ -1,4 +1,4 @@
-# Lambda-Function-Mediacal-Intelligence
+# Lambda-Function-Medical-Intelligence
 Automated medical billing and coding powered by AI
 
 ## Objective:
